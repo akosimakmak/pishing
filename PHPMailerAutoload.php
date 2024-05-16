@@ -1,6 +1,6 @@
 <?php
 /**
- * PHPMailer SPL autoloader.
+ * PHPMailer SPL autoloader.l
  * PHP Version 5
  * @package PHPMailer
  * @link https://github.com/PHPMailer/PHPMailer/ The PHPMailer GitHub project
